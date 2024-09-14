@@ -1,0 +1,1 @@
+This Git stores Projects.
